@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Traveller.ConsoleApp/Traveller.ConsoleApp.csproj" Id="4d829a81-813f-4142-a33a-f31765b6f76d" />
+  <Project Path="src/Traveller.Domain/Traveller.Domain.csproj" Id="a7274c81-4675-4b85-bd3b-75b837880d24" />
+</Solution>
